@@ -1,5 +1,5 @@
 .background-city {
-  background: #111 url('../images/background.jpg') center bottom / cover
-    no-repeat fixed;
+  background: url('../images/background.jpg') center bottom / cover no-repeat
+    fixed;
   min-height: 100vh;
 }
